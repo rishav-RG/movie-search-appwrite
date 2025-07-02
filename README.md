@@ -33,7 +33,6 @@ The app provides a seamless experience for searching movie titles and visualizin
 * **Tailwind CSS** – Styling framework
 * **Appwrite** – Backend as a service for analytics
 * **JavaScript** – Programming language
-* **ESLint** – Code quality and linting
 
 ---
 
