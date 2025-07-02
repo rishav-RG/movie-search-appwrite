@@ -2,7 +2,7 @@
 
 A modern React + Tailwind + Appwrite powered movie browsing and analytics app.
 
-![Trending Movies](./assets/Screenshot%202025-07-02%20230714.png)
+![Trending Movies](./assets/trending.png)
 
 ---
 
