@@ -2,7 +2,7 @@
 
 A modern React + Tailwind + Appwrite powered movie browsing and analytics app.
 
-![Trending Movies](./assets/Screenshot%202025-07-02%20230714.png)
+![Trending Movies](src/assets/trending.png)
 
 ---
 
@@ -33,7 +33,6 @@ The app provides a seamless experience for searching movie titles and visualizin
 * **Tailwind CSS** – Styling framework
 * **Appwrite** – Backend as a service for analytics
 * **JavaScript** – Programming language
-* **ESLint** – Code quality and linting
 
 ---
 
